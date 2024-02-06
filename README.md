@@ -18,8 +18,9 @@ https://github.com/WongKinYiu/yolov7
 
 For the labelled training and validation dataset, you can have access at:
 
-https://drive.google.com/drive/folders/1Cp0gC1_IgugWHFTNZ-MxYV5n6-BozK3c?usp=sharing, https://drive.google.com/drive/folders/1bB5pMYbI_IrGh3C9LoxWuooe1P4-QxEg?usp=sharing
+Train: https://drive.google.com/drive/folders/1bB5pMYbI_IrGh3C9LoxWuooe1P4-QxEg?usp=sharing
 
+Validation: https://drive.google.com/drive/folders/1Cp0gC1_IgugWHFTNZ-MxYV5n6-BozK3c?usp=sharing
 
 
 To modify the repository to run PCRyolo, simply replace the `detect.py` with our given file, which integrates the webcam stream and communication module. Then add the `pcryolo.pt` to the root address.
