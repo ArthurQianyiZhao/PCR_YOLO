@@ -1,8 +1,8 @@
-# PCRyolo: Multi-Purpose Cleaning Robot Based on _YOLO_-V7
+# PCR_YOLO: Multi-Purpose Cleaning Robot Based on _YOLO_-V7
 
 # Project Description
 
-The Multi-<u>P</u>urpose <u>C</u>leaning <u>R</u>obot trained based on <u>yolo</u>-V7, embedded into an autonomous robot chassis, can automatically navigate, identify different types of rubbishes/resources, and collect them.
+The Multi-<u>P</u>urpose <u>C</u>leaning <u>R</u>obot trained based on <u>YOLO</u>-V7, embedded into an autonomous robot chassis, can automatically navigate, identify different types of rubbishes/resources, and collect them.
 
 The deep learning model `pcryolo.pt` was trained based on YOLO-V7, which can identify 5 classes, including "coin", "paper", "plastic", "can" and "water", with impressive accuracy.
 
