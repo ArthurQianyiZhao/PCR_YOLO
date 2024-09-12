@@ -1,4 +1,4 @@
-# PCRyolo: Multi-Purpose Cleaning Robot Based on YOLO-V7
+# PCRyolo: Multi-_P_urpose _C_leaning _R_obot Based on _YOLO_-V7
 
 # Project Description
 
